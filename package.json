@@ -1,7 +1,7 @@
 {
   "name": "house-marketplace",
   "version": "1.0.1",
-  "homepage": "https://KrystalJean.github.io/house-marketplace/",
+  "homepage": "https://KrystalJean.github.io/house-marketplace",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",

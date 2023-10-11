@@ -20,8 +20,8 @@ function App() {
     <>
       <Router>
         <Routes>
-          <Route path='/' element={<Explore />} />
-          {/* <Route path='/explore' element={<Explore />} /> */}
+          <Route path='/house-marketplace' element={<Explore />} />
+          <Route path='/explore' element={<Explore />} />
           <Route path='/offers' element={<Offers />} />
           <Route path='/category/:categoryName' element={<Category />} />
           <Route path='/profile' element={<PrivateRoute />}>
