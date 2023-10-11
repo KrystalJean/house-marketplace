@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/house-marketplace/static/css/main.a6bb3ada.css",
-    "main.js": "/house-marketplace/static/js/main.04af3de6.js",
+    "main.js": "/house-marketplace/static/js/main.7ddb1226.js",
     "static/js/787.889a0458.chunk.js": "/house-marketplace/static/js/787.889a0458.chunk.js",
     "static/media/sellCategoryImage.jpg": "/house-marketplace/static/media/sellCategoryImage.c4d28ee7217d692d13fb.jpg",
     "static/media/rentCategoryImage.jpg": "/house-marketplace/static/media/rentCategoryImage.cd9f015021c041d9ad87.jpg",
@@ -22,11 +22,11 @@
     "static/media/keyboardArrowRightIcon.svg": "/house-marketplace/static/media/keyboardArrowRightIcon.8cee54bec29003f4c3faa8f2acfa6de8.svg",
     "static/media/homeIcon.svg": "/house-marketplace/static/media/homeIcon.09f28a7193ed1624e778ad88fc51ab56.svg",
     "main.a6bb3ada.css.map": "/house-marketplace/static/css/main.a6bb3ada.css.map",
-    "main.04af3de6.js.map": "/house-marketplace/static/js/main.04af3de6.js.map",
+    "main.7ddb1226.js.map": "/house-marketplace/static/js/main.7ddb1226.js.map",
     "787.889a0458.chunk.js.map": "/house-marketplace/static/js/787.889a0458.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a6bb3ada.css",
-    "static/js/main.04af3de6.js"
+    "static/js/main.7ddb1226.js"
   ]
 }
